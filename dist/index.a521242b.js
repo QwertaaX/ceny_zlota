@@ -624,6 +624,7 @@ $.get("http://api.nbp.pl/api/cenyzlota/last/30/?format=json", "json").done(funct
         }
     });
 });
+// makes the chart not appear blurry when resized
 $(window).on("afterprint", function() {
     for(let id in (0, _autoDefault.default).instances)(0, _autoDefault.default).instances[id].resize();
 });

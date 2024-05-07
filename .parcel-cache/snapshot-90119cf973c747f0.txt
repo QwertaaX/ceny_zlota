@@ -33,7 +33,7 @@
 68C:\Users\mateusz\Documents\cenyZlota\node_modules\css-tree\cjs\lexer133594649360928949 1
 86C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\actual\typed-array\filter.js133594649372237763 0
 67C:\Users\mateusz\Documents\cenyZlota\node_modules\svgo\lib\style.js133594649354577459 0
-47C:\Users\mateusz\Documents\cenyZlota\.gitignore133595382264893318 0
+47C:\Users\mateusz\Documents\cenyZlota\.gitignore133595397839990812 0
 74C:\Users\mateusz\Documents\cenyZlota\node_modules\to-regex-range\README.md133594649344548502 0
 81C:\Users\mateusz\Documents\cenyZlota\node_modules\cosmiconfig\dist\index.d.ts.map133594649354137045 0
 68C:\Users\mateusz\Documents\cenyZlota\node_modules\ramda\src\until.js133594649367828498 0
@@ -59,7 +59,7 @@
 92C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\modules\esnext.math.deg-per-rad.js133594649371046213 0
 83C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\actual\typed-array\set.js133594649383057899 0
 74C:\Users\mateusz\Documents\cenyZlota\node_modules\ramda\src\reduceRight.js133594649366904566 0
-41C:\Users\mateusz\Documents\cenyZlota\dist133595395650970039 1
+41C:\Users\mateusz\Documents\cenyZlota\dist133595404857472098 1
 87C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\stable\array\virtual\every.js133594649371888921 0
 58C:\Users\mateusz\Documents\cenyZlota\node_modules\has-flag133594649345521452 1
 88C:\Users\mateusz\Documents\cenyZlota\node_modules\@parcel\packager-js\src\DevPackager.js133594649349740445 0
@@ -114,7 +114,7 @@
 55C:\Users\mateusz\Documents\cenyZlota\node_modules\json5133594649350861046 1
 124C:\Users\mateusz\Documents\cenyZlota\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\IdSelector.js133594649357954947 0
 81C:\Users\mateusz\Documents\cenyZlota\node_modules\css-tree\lib\generator\index.js133594649362692565 0
-56C:\Users\mateusz\Documents\cenyZlota\src\acquisitions.js133595394652439824 0
+56C:\Users\mateusz\Documents\cenyZlota\src\acquisitions.js133595404909423362 0
 72C:\Users\mateusz\Documents\cenyZlota\node_modules\dayjs\esm\locale\is.js133594649362748080 0
 71C:\Users\mateusz\Documents\cenyZlota\node_modules\semver\internal\re.js133594649355211250 0
 99C:\Users\mateusz\Documents\cenyZlota\node_modules\css-select\lib\esm\pseudo-selectors\subselects.js133594649352181714 0
@@ -615,7 +615,7 @@
 91C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\modules\esnext.iterator.filter.js133594649370565279 0
 78C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\internals\iterate.js133594649378384580 0
 102C:\Users\mateusz\Documents\cenyZlota\node_modules\caniuse-lite\data\features\contentsecuritypolicy2.js133594649361883831 0
-59C:\Users\mateusz\Documents\cenyZlota\dist\index.a521242b.js133595394652973339 0
+59C:\Users\mateusz\Documents\cenyZlota\dist\index.a521242b.js133595404857422144 0
 90C:\Users\mateusz\Documents\cenyZlota\node_modules\caniuse-lite\data\features\web-serial.js133594649370578163 0
 66C:\Users\mateusz\Documents\cenyZlota\node_modules\ramda\src\dec.js133594649363232625 0
 72C:\Users\mateusz\Documents\cenyZlota\node_modules\htmlnano\.eslintignore133594649344618312 0
@@ -1725,7 +1725,7 @@
 70C:\Users\mateusz\Documents\cenyZlota\node_modules\term-size\index.d.ts133594649348550461 0
 69C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\es\function133594649380409696 1
 92C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\stable\reflect\get-prototype-of.js133594649374597743 0
-52C:\Users\mateusz\Documents\cenyZlota\dist\index.html133595387130658703 0
+52C:\Users\mateusz\Documents\cenyZlota\dist\index.html133595403625595883 0
 66C:\Users\mateusz\Documents\cenyZlota\node_modules\ramda\es\eqBy.js133594649363687560 0
 68C:\Users\mateusz\Documents\cenyZlota\node_modules\term-size\index.js133594649347092972 0
 83C:\Users\mateusz\Documents\cenyZlota\node_modules\mdn-data\css\at-rules.schema.json133594649346645238 0
@@ -2155,7 +2155,7 @@
 71C:\Users\mateusz\Documents\cenyZlota\node_modules\ramda\src\takeLast.js133594649367352581 0
 81C:\Users\mateusz\Documents\cenyZlota\node_modules\caniuse-lite\data\regions\CI.js133594649361428449 0
 100C:\Users\mateusz\Documents\cenyZlota\node_modules\htmlnano\lib\modules\minifyConditionalComments.cjs133594649351870156 0
-60C:\Users\mateusz\Documents\cenyZlota\dist\index.2cdaf7bc.css133595395650940031 0
+60C:\Users\mateusz\Documents\cenyZlota\dist\index.2cdaf7bc.css133595403625134592 0
 74C:\Users\mateusz\Documents\cenyZlota\node_modules\semver\classes\semver.js133594649355720367 0
 102C:\Users\mateusz\Documents\cenyZlota\node_modules\css-select\node_modules\domutils\lib\esm\legacy.d.ts133594649357146824 0
 70C:\Users\mateusz\Documents\cenyZlota\node_modules\semver\bin\semver.js133594649355613762 0
@@ -6009,7 +6009,7 @@
 90C:\Users\mateusz\Documents\cenyZlota\node_modules\css-tree\cjs\lexer\generic-an-plus-b.cjs133594649356194587 0
 78C:\Users\mateusz\Documents\cenyZlota\node_modules\css-tree\cjs\lexer\index.cjs133594649357668062 0
 78C:\Users\mateusz\Documents\cenyZlota\node_modules\css-tree\cjs\lexer\Lexer.cjs133594649358715236 0
-63C:\Users\mateusz\Documents\cenyZlota\dist\index.65dc8af4.js.map133595387130345564 0
+63C:\Users\mateusz\Documents\cenyZlota\dist\index.65dc8af4.js.map133595403625124154 0
 121C:\Users\mateusz\Documents\cenyZlota\node_modules\@parcel\optimizer-svgo\node_modules\svgo\lib\svgo\css-select-adapter.js133594649353726826 0
 87C:\Users\mateusz\Documents\cenyZlota\node_modules\css-tree\cjs\lexer\prepare-tokens.cjs133594649360172177 0
 76C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\es\regexp\index.js133594649376330266 0
@@ -6800,7 +6800,7 @@
 82C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\full\string\match-all.js133594649380040914 0
 90C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\modules\es.date.to-gmt-string.js133594649367495983 0
 90C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\modules\es.date.to-iso-string.js133594649367495983 0
-63C:\Users\mateusz\Documents\cenyZlota\dist\index.8d1d23e7.js.map133595387130528909 0
+63C:\Users\mateusz\Documents\cenyZlota\dist\index.8d1d23e7.js.map133595403625124154 0
 94C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\modules\es.typed-array.find-index.js133594649368974980 0
 94C:\Users\mateusz\Documents\cenyZlota\node_modules\@babel\runtime\helpers\esm\arrayWithHoles.js133594649358930693 0
 84C:\Users\mateusz\Documents\cenyZlota\node_modules\core-js\modules\es.date.to-json.js133594649367509416 0
@@ -11270,7 +11270,7 @@
 81C:\Users\mateusz\Documents\cenyZlota\node_modules\.bin\update-browserslist-db.ps1133594649457793012 0
 63C:\Users\mateusz\Documents\cenyZlota\node_modules\.bin\uuid.ps1133594649457793012 0
 63C:\Users\mateusz\Documents\cenyZlota\dist\index.44983732.js.map133594666662099280 0
-59C:\Users\mateusz\Documents\cenyZlota\dist\index.65dc8af4.js133595387130295554 0
-59C:\Users\mateusz\Documents\cenyZlota\dist\index.8d1d23e7.js133595387130489772 0
-63C:\Users\mateusz\Documents\cenyZlota\dist\index.a521242b.js.map133595394653023395 0
-64C:\Users\mateusz\Documents\cenyZlota\dist\index.2cdaf7bc.css.map133595395650960050 0
+59C:\Users\mateusz\Documents\cenyZlota\dist\index.65dc8af4.js133595403624974145 0
+59C:\Users\mateusz\Documents\cenyZlota\dist\index.8d1d23e7.js133595403624994148 0
+64C:\Users\mateusz\Documents\cenyZlota\dist\index.2cdaf7bc.css.map133595403625164141 0
+63C:\Users\mateusz\Documents\cenyZlota\dist\index.a521242b.js.map133595404857462097 0
