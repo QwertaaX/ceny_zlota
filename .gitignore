@@ -1,0 +1,6 @@
+.parcel-cache
+dist/
+node_modules/
+jquery-3.7.1.min.js
+package-lock.json
+package.json
