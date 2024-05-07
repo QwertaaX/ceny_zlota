@@ -10,12 +10,16 @@ html, body {
 }
 
 #canvas-container {
-    /* position: relative; */
-    width: 65vw;
+    position: relative;
+    width: 70vw;
     height: 60vh;
-    /* margin: auto;
+    min-width: 30%;
+    min-height: 30%;
+    max-width: 95%;
+    max-height: 90%;
+    margin: auto;
     top: 50%;
-    translate: 0 -60%; */
+    translate: 0 -55%;
     resize: both;
-    overflow: auto;
+    overflow: hidden;
 }

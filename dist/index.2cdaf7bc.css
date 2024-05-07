@@ -11,8 +11,16 @@ html, body {
 
 #canvas-container {
   resize: both;
-  width: 65vw;
+  width: 70vw;
+  min-width: 30%;
+  max-width: 95%;
   height: 60vh;
-  overflow: auto;
+  min-height: 30%;
+  max-height: 90%;
+  margin: auto;
+  position: relative;
+  top: 50%;
+  overflow: hidden;
+  translate: 0 -55%;
 }
 /*# sourceMappingURL=index.2cdaf7bc.css.map */

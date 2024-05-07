@@ -601,7 +601,7 @@ $.get("http://api.nbp.pl/api/cenyzlota/last/30/?format=json", "json").done(funct
                     display: true,
                     text: "Ostatnie 30 notowa\u0144 cen z\u0142ota*",
                     font: {
-                        size: 30
+                        size: 32
                     }
                 },
                 subtitle: {
@@ -617,7 +617,7 @@ $.get("http://api.nbp.pl/api/cenyzlota/last/30/?format=json", "json").done(funct
             labels: data.map((row)=>row.data),
             datasets: [
                 {
-                    label: "Cena z\u0142ota",
+                    label: "Cena z\u0142ota [z\u0142]",
                     data: data.map((row)=>row.cena)
                 }
             ]

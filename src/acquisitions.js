@@ -17,7 +17,7 @@ $.get("http://api.nbp.pl/api/cenyzlota/last/30/?format=json", "json")
                         display: true,
                         text: "Ostatnie 30 notowań cen złota*",
                         font: {
-                            size: 30
+                            size: 32
                         }
                     },
                     subtitle: {
@@ -33,7 +33,7 @@ $.get("http://api.nbp.pl/api/cenyzlota/last/30/?format=json", "json")
               labels: data.map(row => row.data),
               datasets: [
                 {
-                  label: 'Cena złota',
+                  label: 'Cena złota [zł]',
                   data: data.map(row => row.cena)
                 }
               ]
